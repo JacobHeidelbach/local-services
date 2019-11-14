@@ -12,7 +12,7 @@ spec:
   - NET_RAW
   - SYS_ADMIN
   fsGroup:
-    rule: RunAsAny
+     rule: RunAsAny
   hostNetwork: true
   hostPorts:
   - max: 7472
